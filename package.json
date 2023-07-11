@@ -1,0 +1,20 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "it's a social network app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "hapi": "^13.5.3",
+    "hapi-auth-cookie": "^10.0.0",
+    "inert": "^4.0.0",
+    "mongoose": "^6.5.2",
+    "shortid": "^2.2.16",
+    "vision": "^4.1.0"
+  }
+}
